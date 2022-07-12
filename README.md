@@ -1,4 +1,4 @@
-# Bioinformatics_Journey
+# Bioinformatics_journey
 ## Day One As A Bioinformatics Intern At ICIPE 
 HI!! My name is Cyndie! I'm currently a Bioinformatics intern at ICIPE, Kenya, Cohort 6 😃😃🥳
 Well what can I say! In this cold cold day, we officially kickstarted the journey!
