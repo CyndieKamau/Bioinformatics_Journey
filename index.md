@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Bioinformatics_journey
+## Day One As A Bioinformatics Intern At ICIPE
 
-You can use the [editor on GitHub](https://github.com/CyndieKamau/Bioinformatics_Journey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HI!! My name is Cyndie! I'm currently a Bioinformatics intern at ICIPE, Kenya, Cohort 6 😃😃🥳
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well what can I say! In this cold cold day (12th July 2022), we officially kickstarted the journey!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I'll take you through everything we learn during the course of the four months, arranged in weekly files in this repo.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+This repo won't have much of technicalities, but rather personal observations and experiences.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Buckle up my people!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 1. Vision Statement
+My vision is to be a hardcore pythonista. Be so good I can design highly secure systems and algorithms to boost scientific research. Harness the           cloud compute power to amp up big data analytics. Finally, with a security-driven approach, pen test these systems to eliminate as much           vulnerabilities as possible.
 
-### Jekyll Themes
+- Design
+- Build
+- Secure
+- Repeat.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyndieKamau/Bioinformatics_Journey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 2. Mission Statement
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> One Piece Of Code At A Time.
+
+
+Being a Diligent, Efficient, Trustworthy and Committed intern, teammate and collaborator. 
+
+
+## 3. Road Map
+For a wholesome and thoroughly insightful experience interning at ICIPE, 
+
+
+- First Milestone
+- Second Milestone
+- Third Milestone
+- Fourth Milestone
+
+
+### 1. First Milestone (Conquer Linux, Git systems)
+- [ ] Get fully comfortable working around Linux, Ubuntu, Unix systems
+- [ ] Get comfortable working around Git and Github.
+- [ ] Command the terminal
+
+
+### 2. Second Milestone (Python, R)
+- [ ] Learn how to set up Python, R environments seamlessly
+- [ ] Learn how to write production-worthy code
+- [ ] Learn how to perform unit tests
+     
+
+### 3. Third Milestone (Data Analytics)
+- [ ] Learn how to use Jupyter notebooks
+- [ ] Learn how to analyze data
+
+
+### 4. Fourth Milestone (Soft Skills)
+- [ ] Learn how to make presentations, public speaking
+- [ ] Learn how to create efficient reports, writeups
+- [ ] Learn effective collaboration, teamwork
+- [ ] Learn and network with my peers, mentors and supervisors
